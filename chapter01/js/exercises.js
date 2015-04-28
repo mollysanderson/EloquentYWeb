@@ -14,7 +14,7 @@ Exercises.numbers1 = function() {
 // Make the function return a value that is a negative number.
 Exercises.numbers2 = function() {
 
-  return /* your answer here */ ;
+  return -6/* your answer here */ ;
 
 };
 
@@ -22,7 +22,7 @@ Exercises.numbers2 = function() {
 // Make the function return a value that is between 4 and 5.
 Exercises.numbers3 = function() {
 
-  return /* your answer here */ ;
+  return 4.5/* your answer here */ ;
 
 };
 
@@ -30,7 +30,7 @@ Exercises.numbers3 = function() {
 // Make the function return a value that is between 10e4 and 10e5.
 Exercises.numbers4 = function() {
 
-  return /* your answer here */ ;
+  return 101000/* your answer here */ ;
 
 };
 
@@ -40,7 +40,7 @@ Exercises.numbers4 = function() {
 // Make the function return an expression that evaluates to 10.
 Exercises.arithmetic1 = function() {
 
-  return /* your answer here */ ;
+  return 100/10/* your answer here */ ;
 
 };
 
@@ -48,7 +48,7 @@ Exercises.arithmetic1 = function() {
 // Fix the operators so the expression evaluates to 7.
 Exercises.arithmetic2 = function() {
 
-  return 2 - 3 * 5 + 4 ;
+  return 2 - 3 * 5 + 20 ;
   
 };
 
